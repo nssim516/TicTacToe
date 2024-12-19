@@ -28,10 +28,10 @@ This is a simple C++ implementation of the classic TicTacToe game for two player
    |   |  
 ---------
    |   |  
-What is the next move? X 1 1
-X  |   |  
----------
+What is the next move? X 2 2
    |   |  
+---------
+   | X |  
 ---------
    |   |
 ```
