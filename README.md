@@ -11,25 +11,25 @@ This is a simple C++ implementation of the classic TicTacToe game for two player
 ## How to Play
 
 1. Clone the repository:
-'git clone https://github.com/yourusername/tictactoe.git'
+`git clone https://github.com/yourusername/tictactoe.git`
 
 2. Compile the code:
-'g++ -o tictactoe code.cpp'
+`g++ -o tictactoe code.cpp`
 
-3. Run the game:
-'./tictactoe'
+4. Run the game:
+`./tictactoe`
 
-4. Enter moves in the format: '[Player] [Row] [Column] (e.g., X 1 1).'
+5. Enter moves in the format: `[Player] [Row] [Column] (e.g., X 1 1).`
 
 ## Example Gameplay
-'   |   |  '
-'---------'
-'   |   |  '
-'---------'
-'   |   |  '
-'What is the next move? X 1 1
+`   |   |  `
+`---------`
+`   |   |  `
+`---------`
+`   |   |  '
+`What is the next move? X 1 1
 X  |   |  
 ---------
    |   |  
 ---------
-   |   |  '
+   |   |  `
