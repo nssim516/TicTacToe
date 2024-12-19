@@ -22,14 +22,16 @@ This is a simple C++ implementation of the classic TicTacToe game for two player
 5. Enter moves in the format: `[Player] [Row] [Column] (e.g., X 1 1).`
 
 ## Example Gameplay
-`   |   |  `
-`---------`
-`   |   |  `
-`---------`
-`   |   |  '
-`What is the next move? X 1 1
+```
+   |   |  
+---------
+   |   |  
+---------
+   |   |  
+What is the next move? X 1 1
 X  |   |  
 ---------
    |   |  
 ---------
-   |   |  `
+   |   |
+```
